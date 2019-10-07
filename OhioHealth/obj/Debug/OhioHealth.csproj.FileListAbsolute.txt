@@ -1,0 +1,10 @@
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.csprojAssemblyReference.cache
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.Form1.resources
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.Properties.Resources.resources
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.csproj.GenerateResource.cache
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\bin\Debug\OhioHealth.exe.config
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\bin\Debug\OhioHealth.exe
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\bin\Debug\OhioHealth.pdb
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.exe
+C:\Users\Amanda Ward\Desktop\Kata\OhioHealth\OhioHealth\obj\Debug\OhioHealth.pdb
